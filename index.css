@@ -1,0 +1,88 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+.main__right-content {width: 100%;}
+
+.header__left-content {font-size: 16px;}
+
+.main__right-title-icon {color: #3F9599;}
+
+.skills-group {margin-left: 22px;}
+
+img.favourite__title-icon {margin-right: 4px;}
+
+ul.favourite-list {list-style: none;font-size: 20px;margin-top: 2px;margin-left: 33px;}
+
+.favourite {width: 50%;padding-left: 29%;}
+
+.favourite__title {font-size: 20px;font-weight: 600;display: flex;align-items: center;}
+
+.Skills {width: 50%;}
+
+.footer {display: flex;justify-content: space-between;width: 80%;margin: auto;margin-top: 40px;background: white;}
+
+img.Skills__header-img {width: 20px;margin: 0px 4px;}
+
+.Skills__name {font-size: 20px;margin-left: 4px;}
+
+.Skills__percent-child {position: absolute;width: 80%;height: 100%;background: #3F9599;border-bottom-left-radius: 4px;border-top-left-radius: 4px;}
+
+.Skills__percent {position: relative;width: 50%;height: 10px;background: #8080808c;border-radius: 4px;box-sizing: border-box;margin-left: 6px;}
+
+.Skills__header {display: flex;align-items: center;font-size: 20px;font-weight: 600;}
+
+i.fa-regular.fa-calendar.main__left-item-icon {}
+
+.main__left-item-icon {color: #328998;}
+
+li.main__right-item {margin-top: 10px;width: 100%;}
+
+.main__left-item-content {margin-top: 10px;}
+
+li.main__left-description-item {margin-top: 10px;}
+
+.main__right-name {font-weight: 600;}
+
+.main__right-title-name {margin-left: 10px;}
+
+ul.main__right-list {list-style: none;width: 100%;margin: 0px;padding: 0px;}
+
+.main__right {font-size: 20px;margin-left: 24px;width: 65%;}
+
+.main__right-title {display: flex;align-items: center;font-weight: bold;}
+
+ul.main__left-list {padding: 0px;}
+
+.main__left {width: 35%;}
+
+i.fa-solid.fa-location-dot.main__left-item-icon {}
+
+i.fa-solid.fa-location-dot.main__left-item-icon.main__left-item-icon--address {margin-top: -27px;}
+
+.main__left-description {padding-left: 6px;}
+
+ul.main__left-description-list {list-style: none;font-size: 20px;}
+
+.main__left-description-title {font-size: 20px;font-weight: 600;margin-top: 10px;}
+
+.main__left-item-content {margin-left: 6px;margin-top: 0px;}
+
+li.main__left-item {list-style: none;display: flex;font-size: 20px;align-items: center;margin-top: 10px;margin-left: 4px;}
+
+.main__left-title {font-size: 24px;height: 40px;background: #3F9599;color: white;display: flex;justify-content: center;align-items: center;}
+
+main.main__left {width: calc(100% / 3 );background: #4CAC9D;color: white;}
+
+.main {width: 100%;margin: auto;display: flex;background: white;}
+
+.header__left-name {font-size: 30px;}
+
+.header__left {color: white;margin-left: 40px;margin-top: 50px;}
+
+.header__left-name {}
+
+.header {height: 94px;background: linear-gradient(45deg, black, transparent);width: 100%;display: flex;height: 170px;justify-content: space-between;}
+
+.profile {width: 794px;margin: auto;height: 1122px;background: white;}
